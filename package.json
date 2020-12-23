@@ -1,0 +1,26 @@
+{
+  "name": "eslint-junit-formatter",
+  "version": "1.0.0",
+  "description": "junit formatter for eslint report",
+  "main": "reporter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castlemilk/eslint-junit-formatter.git"
+  },
+  "keywords": [
+    "eslint",
+    "junit",
+    "formatting",
+    "javascript",
+    "es6"
+  ],
+  "author": "Ben Ebsworth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/castlemilk/eslint-junit-formatter/issues"
+  },
+  "homepage": "https://github.com/castlemilk/eslint-junit-formatter#readme"
+}
